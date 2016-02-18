@@ -3,4 +3,5 @@ venv
 .idea
 *.swp
 .env
+env/
 __pycache__
